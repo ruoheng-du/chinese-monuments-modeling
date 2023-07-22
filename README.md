@@ -4,13 +4,13 @@ This is the repository for the modeling projects done in GCHN-SHU 236 course at 
 ### Dougong Project
 Dougong Structure Polygonal Modeling
 
-<img width="600" alt="dougong" src="https://github.com/ruoheng-du/chinese-monuments-modeling/assets/99549293/b0f6b849-f4cf-44dc-8938-27d01fc32d39">
+<img width="600" alt="dougong" src="https://github.com/ruoheng-du/chinese-monuments-modeling/raw/main/assets/dougong.png">
 
-<img width="600" alt="improvison" src="https://github.com/ruoheng-du/chinese-monuments-modeling/assets/99549293/115c1214-62a3-4874-b4fe-f5a39e2377a8">
+<img width="600" alt="dougong improvison" src="https://github.com/ruoheng-du/chinese-monuments-modeling/raw/main/assets/dougong improvison.png">
 
 
 ### Zhenguo Temple Project
 * This project is done in collaboration with Qiaowei Li, Lexie Zhu, Tristan Liu, and Mia Xue.
 
-<img width="600" alt="zhenguo temple" src="https://github.com/ruoheng-du/chinese-monuments-modeling/assets/99549293/ef8bea3c-4f42-422f-8508-cbb16d44aa28">
+<img width="600" alt="zhenguo temple" src="https://github.com/ruoheng-du/chinese-monuments-modeling/raw/main/assets/zhenguo temple.png">
 
